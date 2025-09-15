@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/portfolio-bhavesh/static/css/main.0f4ef58a.css",
+    "main.js": "/portfolio-bhavesh/static/js/main.d097e128.js",
+    "static/js/488.c3d899b1.chunk.js": "/portfolio-bhavesh/static/js/488.c3d899b1.chunk.js",
+    "index.html": "/portfolio-bhavesh/index.html",
+    "main.0f4ef58a.css.map": "/portfolio-bhavesh/static/css/main.0f4ef58a.css.map",
+    "main.d097e128.js.map": "/portfolio-bhavesh/static/js/main.d097e128.js.map",
+    "488.c3d899b1.chunk.js.map": "/portfolio-bhavesh/static/js/488.c3d899b1.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0f4ef58a.css",
+    "static/js/main.d097e128.js"
+  ]
+}
