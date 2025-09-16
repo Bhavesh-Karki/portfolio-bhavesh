@@ -46,13 +46,14 @@ Website link: https://bhavesh-karki.github.io/portfolio-bhavesh/
 <h1><b>Project Structure</b></h1>
 <img width="226" height="601" alt="image" src="https://github.com/user-attachments/assets/1aee93a3-c882-443e-92c8-0bb449f8bf4c" />
 <h1><b>Design Decisions</b></h1>
-
-1. Chose **React.js** for building reusable and scalable UI components.  
-2. Implemented **Bootstrap 5** for responsive design, grid layout, and prebuilt UI components.  
-3. Clear separation of sections into modular **components** (Home, Resume, Portfolio, Contact) for better maintainability.  
-4. Used **Props & State** for dynamic data handling and UI updates.  
-5. Integrated **React Router DOM** for smooth navigation between sections.  
-6. Applied **Event Handling** for user interactions such as form submission and project filtering.  
-7. Utilized **Conditional Rendering** to dynamically display portfolio projects based on filters.  
-8. Kept a **minimalist design** to ensure focus remains on the content.  
-9. Deployment via **GitHub Pages** for easy accessibility and sharing.  
+<ol>
+  <li><b>Chose React.js</b> for building reusable and scalable UI components.</li>
+  <li><b>Implemented Bootstrap 5</b> for responsive design, grid layout, and prebuilt UI components.</li>
+  <li><b>Clear separation of sections</b> into modular components (Home, Resume, Portfolio, Contact) for better maintainability.</li>
+  <li><b>Used Props & State</b> for dynamic data handling and UI updates.</li>
+  <li><b>Integrated React Router DOM</b> for smooth navigation between sections.</li>
+  <li><b>Applied Event Handling</b> for user interactions such as form submission and project filtering.</li>
+  <li><b>Utilized Conditional Rendering</b> to dynamically display portfolio projects based on filters.</li>
+  <li><b>Kept a minimalist design</b> to ensure focus remains on the content.</li>
+  <li><b>Deployment via GitHub Pages</b> for easy accessibility and sharing.</li>
+</ol>
