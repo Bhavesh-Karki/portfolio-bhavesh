@@ -1,6 +1,6 @@
 import React from 'react';
 import './App.css';
-import { BrowserRouter as Router, Routes, Route, NavLink } from 'react-router-dom';
+import { HashRouter as Router, Routes, Route, NavLink } from 'react-router-dom';
 import { Container, Navbar, Nav } from 'react-bootstrap';
 import Home from './pages/Home';
 import MyWork from './pages/MyWork';
@@ -45,6 +45,7 @@ function App() {
         <Route path="/my-work" element={<MyWork />} />
         <Route path="/resume" element={<Resume />} />
         <Route path="/contact" element={<Contact />} />
+        <Route path="*" element={<Home />} />
       </Routes>
       </main>
 

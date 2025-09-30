@@ -10,7 +10,7 @@ export default function Home() {
         </div>
         <div className="text-center text-lg-start" style={{maxWidth: '600px'}}>
           <h1 className="fw-bold mb-3 display-5">Hi, I'm Bhavesh</h1>
-          <p className="text-muted mb-3 fs-5">Frontend Developer • React and UX-Learner</p>
+          <p className="text-muted mb-3 fs-5">Frontend Developer • React, UI-Learner, QA learner</p>
           <p className="mb-4 fs-6 lh-lg">
             I design and build clean, accessible web interfaces with a focus on
             performance and delightful user experience. I enjoy turning ideas into

@@ -3,7 +3,6 @@ import { Container } from 'react-bootstrap';
 
 export default function Resume() {
   const items = [
-    { role: 'Job Experience', org: 'Abss', time: '3 Months',desc: 'Sales and Marketing for Renault car company'},
     { role: 'Education', org: 'Pillai College - SY', time: '2024-present', desc: 'BCA (Bachelor of Computer Applications).' },
     { role: 'HSC', org: 'Terna College', time: '2022-24', desc: 'Science.' }
   ];
